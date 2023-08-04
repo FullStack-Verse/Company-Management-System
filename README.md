@@ -38,6 +38,7 @@
 ## Resources:
 1. Login Info:
    Email : ***mwslucifer@gmail.com***
+   
    Password : ***admin123*** 
 
-2. Tech Stack : HTML - CSS - SCSS - JS - Bootstrap - PHP (7 or higher recommended) - CodeIgnitor - MySQL
+3. Tech Stack : HTML - CSS - SCSS - JS - Bootstrap - PHP (7 or higher recommended) - CodeIgnitor - MySQL
